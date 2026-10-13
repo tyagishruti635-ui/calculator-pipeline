@@ -1,5 +1,4 @@
-ø
-≈pipeline {
+pipeline {
     agent any
 
     parameters {
